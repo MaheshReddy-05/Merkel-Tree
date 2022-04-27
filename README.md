@@ -1,1 +1,1 @@
-# Java-Theory-Digital-Assignment
+# Java-Theory-Digital-Assignment-Merkel-Tree
