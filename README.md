@@ -75,4 +75,5 @@ As you can see in the above image, The data is broken up into blocks D1, D2, D3 
 - It is a fundamental part of the blockchain.
 # References
 
-[https://iq.opengenus.org/merkle-tree/](https://iq.opengenus.org/merkle-tree/)
+- [https://iq.opengenus.org/merkle-tree/](https://iq.opengenus.org/merkle-tree/)
+- https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/
