@@ -6,3 +6,4 @@ A Merkle tree is a data structure with unique properties which make it useful fo
 ## Architecture to Merkel Tree
 
 As you can see in the above image, The data is broken up into blocks D1, D2, D3 and D4. These blocks are hashed using hash functions. Then each pair of nodes are hashed recursively until we reach the root node. Hash 0-0 contains the hash of D1 and hash 0-1 contains the hash of D2. Hash 0 contains hash of the sum of its children( hash(hash 0-0 + hash 0-1)). Similarly, all non-leaf nodes are a hash of their child nodes and the root node contains the hash of all nodes below it.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hash_Tree.svg/1920px-Hash_Tree.svg.png" />
